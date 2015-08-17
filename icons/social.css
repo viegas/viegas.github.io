@@ -1,0 +1,61 @@
+ /*http://weloveiconfonts.com/*/
+
+ @import url('http://weloveiconfonts.com/api/?family=entypo');
+
+ .content {
+     padding: 30px;
+     font: 300 40px Lato, sans-serif;
+     text-align: center;
+     color: #999;
+     background: #eee;
+ }
+ .social {
+     display: inline-block;
+     width: 50px;
+     height: 50px;
+     margin: 0 10px;
+     line-height: 50px;
+     font-family: Entypo;
+     font-size: 35px;
+     text-align: center;
+     color: #aaa;
+     border-radius: 50%;
+     background: #eee;
+     overflow: hidden;
+     transition: color .3s;
+ }
+ #t:hover {
+     color: #00A1CB;
+     cursor: pointer
+ }
+ #l:hover {
+     color: #59d;
+     cursor: pointer;
+ }
+ #g:hover {
+     color: red;
+     cursor: pointer;
+ }
+ #f:hover {
+     color: #2944D9;
+     cursor: pointer;
+ }
+ #p:hover {
+     color: #E54028;
+     cursor: pointer
+ }
+ #v:hover {
+     color: lightblue;
+     cursor: pointer
+ }
+  #h:hover {
+     color: black;
+     cursor: pointer
+ }
+ 
+ .social {
+     box-shadow: rgb(210, 210, 210) 1px 1px,   rgb(210, 210, 210) 2px 2px,   rgb(211, 211, 211) 3px 3px, 
+                 rgb(211, 211, 211) 4px 4px,   rgb(211, 211, 211) 5px 5px,   rgb(212, 212, 212) 6px 6px, 
+                 rgb(212, 212, 212) 7px 7px,   rgb(212, 212, 212) 8px 8px,   rgb(213, 213, 213) 9px 9px, 
+                 rgb(213, 213, 213) 10px 10px, rgb(214, 214, 214) 11px 11px, rgb(214, 214, 214) 12px 12px;
+ }
